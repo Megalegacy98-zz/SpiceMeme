@@ -5,7 +5,7 @@ A Discord bot that can generate memes.
 
 \*meme\* \<template\> \<top text\> \<bottom text\> - Makes a meme.
 
-\*memehelp\* - Shows you availiable templates.
+\*memehelp\* - Shows you available templates.
 
 \*lenny\* - Generates a lenny
 
