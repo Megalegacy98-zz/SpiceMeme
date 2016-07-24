@@ -3,11 +3,11 @@ A Discord bot that can generate memes.
 
 # Commands:
 
-*meme* <template> <top text> <bottom text> - Makes a meme.
+\*meme\* \<template\> \<top text\> \<bottom text\> - Makes a meme.
 
-*memehelp* - Shows you availiable templates.
+\*memehelp\* - Shows you availiable templates.
 
-*lenny* - Generates a lenny
+\*lenny\* - Generates a lenny
 
 # Put the bot in your guild!
 
