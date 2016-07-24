@@ -32,8 +32,8 @@ async def mememaker(message, author):
             }  
             imgflip = "https://api.imgflip.com/caption_image"
             values = {"template_id":templates[template],
-                      "username":"memescool",
-                      "password":"awesomenessstartshere",
+                      "username":"insert user here",
+                      "password":"put password here",
                       "text0":text0,
                       "text1":text1}
             headers = {}
