@@ -11,6 +11,16 @@ A Discord bot that can generate memes, translate, and convert binary to words an
 
 \*spanish\* \<words\> - Type words in whatever language and get the result in Spanish.
 
+\*french\* \<words\> - Type words in whatever language and get the result in French.
+
+\*german\* \<words\> - Type words in whatever language and get the result in German.
+
+\*korean\* \<words\> - Type words in whatever language and get the result in Korean.
+
+\*chinese\* \<words\> - Type words in whatever language and get the result in Chinese.
+
+\*japanese\* \<words\> - Type words in whatever language and get the result in Japanese.
+
 Auto-Translate - The bot will automatically translate any words that are not English.
 
 \*bintotext\* \<binary\> - Converts binary code to text.
