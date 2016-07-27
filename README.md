@@ -1,3 +1,5 @@
+AUTO-TRANSLATE IS DISABLED UNTIL FURTHER NOTICE
+
 # SpiceMeme
 A Discord bot that can generate memes, translate, and convert binary to words and vice-versa.
 
