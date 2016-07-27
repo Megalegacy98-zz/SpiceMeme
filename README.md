@@ -7,7 +7,7 @@ A Discord bot that can generate memes, translate, and convert binary to words an
 
 \*memehelp\* - Shows you available templates.
 
-\*lenny\* - Generates a lenny
+\*lenny\* - Generates a lenny.
 
 \*spanish\* \<words\> - Type words in whatever language and get the result in Spanish.
 
@@ -26,6 +26,8 @@ Auto-Translate - The bot will automatically translate any words that are not Eng
 \*bintotext\* \<binary\> - Converts binary code to text.
 
 \*texttobin\* \<text\> - Converts text to binary code.
+
+\*help\* - Shows commands.
 
 # Put the bot in your guild!
 
