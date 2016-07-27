@@ -29,6 +29,10 @@ Auto-Translate - The bot will automatically translate any words that are not Eng
 
 \*help\* - Shows commands.
 
+Feel free to suggest features, put issues, or put your feedback at the place you found this.
+
+Alternatively, PM me directly on Discord with the email megalegacy98@gmail.com
+
 # Put the bot in your guild!
 
 https://discordapp.com/oauth2/authorize?client_id=206603057516118016&scope=bot
