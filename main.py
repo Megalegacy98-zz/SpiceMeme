@@ -3,15 +3,14 @@ import json
 import discord
 import re
 import binascii
-from microsofttranslator import Translator
+from yandex_translate import YandexTranslate
  
-MICROSOFTAPIID = ""
-MICROSOFTAPISC = ""
+YANDEX = "trnsl.1.1.20170701T203845Z.de5f0b629b564905.c264ca23f085feee439a87d0827e19d4c9c4a3d2"
 TOKEN = ""
 user = ''
 passw = ""
  
-translator = Translator(MICROSOFTAPIID,MICROSOFTAPISC)
+translator = YandexTranslate("https://tech.yandex.com/keys/?service=trnsl")
  
 client = discord.Client()
  
