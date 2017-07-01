@@ -9,6 +9,11 @@ YANDEX = "trnsl.1.1.20170701T203845Z.de5f0b629b564905.c264ca23f085feee439a87d082
 TOKEN = ""
 user = ''
 passw = ""
+
+with open("config.txt", "r") as a:
+    TOKEN = a.readline()
+    user = a.readline()
+    passw = a.readline()
  
 translator = YandexTranslate("https://tech.yandex.com/keys/?service=trnsl")
  
